@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.minasartsite.com/index.html</loc>
+    <lastmod>2019-12-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/hgg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233843.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233835.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233863.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233880.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.minasartsite.com/images/233883.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

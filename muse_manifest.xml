@@ -1,0 +1,58 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.minasartsite.com" resolutions="1x" timestamp="1577802686879">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="4131631396" ref="index"/>
+    <file name="index.css" crc="271423950" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u143.png" crc="4120740045" ref="index"/>
+    <file name="u143-r.png" crc="4120740045" ref="index"/>
+    <file name="u112.png" crc="4099357558" ref="index"/>
+    <file name="u112-r.png" crc="4099357558" ref="index"/>
+    <file name="u119.png" crc="4024463624" ref="index"/>
+    <file name="u119-r.png" crc="4024463624" ref="index"/>
+    <file name="u125.png" crc="99446250" ref="index"/>
+    <file name="u125-r.png" crc="99446250" ref="index"/>
+    <file name="u137.png" crc="3933986298" ref="index"/>
+    <file name="u137-r.png" crc="3933986298" ref="index"/>
+    <file name="hgg.jpg" crc="3812389159" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2174-7.png" crc="72187458" ref="index"/>
+    <file name="u2236-13.png" crc="3768304909" ref="index"/>
+    <file name="233843.jpg" crc="339330555" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2631-14.png" crc="3963078453" ref="index"/>
+    <file name="233922.jpg" crc="510406326" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="233920.jpg" crc="512887023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2857-7.png" crc="491934578" ref="index"/>
+    <file name="u3087-19.png" crc="308037182" ref="index"/>
+    <file name="233835.jpg" crc="519807408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="233863.jpg" crc="406625727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="233880.jpg" crc="181954978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="233883.jpg" crc="39222938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="493239940" seo="true" mt="1577802633345" redirect="true"/>
+</manifest>
